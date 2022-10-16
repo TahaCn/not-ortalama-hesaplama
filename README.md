@@ -1,1 +1,1 @@
-https://app.patika.dev/tahacnbk
+www.patika.dev
