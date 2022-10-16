@@ -1,1 +1,1 @@
-https://app.patika.dev/sign-up
+https://app.patika.dev/tahacnbk
